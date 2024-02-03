@@ -2,7 +2,7 @@
   <img src="./img/preview/preview.png" width="100%" />
 </p>
 
-# 🚲 Bikcraft
+# 🚲 Slide JS
 Projeto de um site de vendas de bicicletas personalizadas. Nesse projeto eu aprendi bastante sobre sobre HTML e CSS, depois desse projeto e outras práticas aprimorei muito meu CSS.
 
 ## ⚙️ Funcionalidades
